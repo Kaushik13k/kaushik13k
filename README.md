@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [https://github.com/Kaushik13k/Pictionary-game/tree/feat/create_join_room] Pictionary App<br>🌱 I’m currently learning Rust, React-Native<br>📝 I write articles on https://medium.com/@13kaushik.k<br>💬 Software engineer fueled by curiosity and a love for Python. Dedicated to crafting clean, efficient code while constantly seeking new challenges and growth opportunities. Let's code, learn, and create together!<br>📫 How to reach me 13kaushikk@gmail.com<br><br>
+🔭 I’m currently working on [![Pictionary App](https://github.com/Kaushik13k/Pictionary-game/tree/feat/create_join_room)]<br>🌱 I’m currently learning Rust, React-Native<br>📝 I write articles on https://medium.com/@13kaushik.k<br>💬 Software engineer fueled by curiosity and a love for Python. Dedicated to crafting clean, efficient code while constantly seeking new challenges and growth opportunities. Let's code, learn, and create together!<br>📫 How to reach me 13kaushikk@gmail.com<br><br>
 
 
 ## 🌐 Socials:
